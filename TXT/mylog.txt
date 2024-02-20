@@ -2,6 +2,16 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W02 20 L01 SCELE/Discord related (POP QUIZ)
+ZCZC W02 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 45 L05 Quiz related including studying
+ZCZC W02 45 L11 Assignment #01
+ZCZC W02 15 L12 Assignment #02
+ZCZC W02 100 L13 Assignment #03
+ZCZC W02 10 L14 Assignment #04
+ZCZC W02 7 L15 Assignment #05
+ZCZC W02 15 L16 Assignment #06
+
 ZCZC W01 15 L01 SCELE/Discord related
 ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 45 L05 Quiz related including studying
