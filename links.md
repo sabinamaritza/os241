@@ -13,3 +13,9 @@ This video was helpful to me because it taught me how to use the man command in 
 What is cyber security? This video guides you through its definition and explain a little bit about common cyber attacks that could happen and the methods taken to prevent it from happening.  
 #### 2. [`Learn C Language In 10 Minutes!! C Language Tutorial`](https://www.youtube.com/watch?v=dTp0c41XnrQ)  
 Is learning C hard? This video serves as a simple and easy introduction to the programming language, C! It teaches you about the program structure, variables, how to print lines, using if-else and switch statements, strings, loops, functions, and arrays.
+
+## Week 3
+#### 1. [`Linux Directories Explained in 100 Seconds`](https://www.youtube.com/watch?v=42iQKuQodW4)  
+What are directories? How do I navigate through it? This video gives a brief overview of the Linux file system, explains what different directories contain and how they are organized, as well as how to navigate through them using the command-line.  
+#### 2. [`🔥 FUSE - what? why? where? | Eva Osherovsky`](https://www.youtube.com/watch?v=1zvOdR02hk4)  
+What is FUSE? This video introduces what FUSE is and how it works. The creator also then dives into different examples of how FUSE is used in real life, including mounting Spotify library, Youtube library, and even Wikipedia to your computer.  
