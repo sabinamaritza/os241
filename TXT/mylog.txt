@@ -4,11 +4,11 @@
 
 ZCZC W03 10 L01 SCELE/Discord related
 ZCZC W03 200 L02 CLASSROOM/ZOOM meetings related
-ZCZC W02 80 L05 Quiz related including studying (and POP QUIZ)
-ZCZC W02 70 L11 Assignment #01
-ZCZC W02 30 L12 Assignment #02
-ZCZC W02 15 L13 Assignment #03
-ZCZC W02 55 L14 Assignment #04
+ZCZC W03 80 L05 Quiz related including studying (and POP QUIZ)
+ZCZC W03 70 L11 Assignment #01
+ZCZC W03 30 L12 Assignment #02
+ZCZC W03 15 L13 Assignment #03
+ZCZC W03 55 L14 Assignment #04
 
 ZCZC W02 20 L01 SCELE/Discord related (POP QUIZ)
 ZCZC W02 200 L02 CLASSROOM/ZOOM meetings related
