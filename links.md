@@ -19,3 +19,9 @@ Is learning C hard? This video serves as a simple and easy introduction to the p
 What are directories? How do I navigate through it? This video gives a brief overview of the Linux file system, explains what different directories contain and how they are organized, as well as how to navigate through them using the command-line.  
 #### 2. [`🔥 FUSE - what? why? where? | Eva Osherovsky`](https://www.youtube.com/watch?v=1zvOdR02hk4)  
 What is FUSE? This video introduces what FUSE is and how it works. The creator also then dives into different examples of how FUSE is used in real life, including mounting Spotify library, Youtube library, and even Wikipedia to your computer.  
+
+## Week 4
+#### 1. [`A `printf` format reference page (cheat sheet) (C, Java, Scala, etc.)'](https://alvinalexander.com/programming/printf-format-cheat-sheet/)  
+How do i use the "printf" command in C? This article is a guide, a cheat sheet if you will, of how you can manipulate the printf command. the author gives a quick overview of available format specifiers, output alignment, special characters, and more!  
+#### 2. [`you will never ask about pointers again after watching this video`](https://www.youtube.com/watch?v=2ybLD6_2gKM)  
+What are pointers and how does it work? This video explains clearly what they are and how they are used in C such as in memory allocation and in working with data structures.  
