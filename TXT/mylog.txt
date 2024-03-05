@@ -8,7 +8,8 @@ ZCZC W04 100 L05 Quiz related including studying (and POP QUIZ)
 ZCZC W04 10 L11 Assignment #01
 ZCZC W04 10 L12 Assignment #02
 ZCZC W04 10 L13 Assignment #03
-ZCZC W04 100 L14 Assignment #04
+ZCZC W04 80 L14 Assignment #04
+ZCZC W04 120 L61 Install/Reinstall/Restore/Backup UTM
 
 ZCZC W03 10 L01 SCELE/Discord related
 ZCZC W03 200 L02 CLASSROOM/ZOOM meetings related
