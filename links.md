@@ -25,3 +25,9 @@ What is FUSE? This video introduces what FUSE is and how it works. The creator a
 How do i use the "printf" command in C? This article is a guide, a cheat sheet if you will, of how you can manipulate the printf command. the author gives a quick overview of available format specifiers, output alignment, special characters, and more!  
 #### 2. [`you will never ask about pointers again after watching this video`](https://www.youtube.com/watch?v=2ybLD6_2gKM)  
 What are pointers and how does it work? This video explains clearly what they are and how they are used in C such as in memory allocation and in working with data structures.  
+
+## Week 5
+#### 1. [`But, what is Virtual Memory?`](https://www.youtube.com/watch?v=A9WLYbE0p-I)  
+Do you know what a virtual memory is? If you don't this video simply explains the concept of virtual memory and goes into detail on how virtual memory works.   
+#### 2. [`Your Computer is Lying To You (Virtual Memory)`](https://www.youtube.com/watch?v=Aw0YAUdQp1c)  
+If you don't like long videos, this one is a 6 minute video on the inner workings of virtual memory. Though it doesn't dive as deep into it, the video explains what it is and how it works on simple terms.  
