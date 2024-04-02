@@ -23,7 +23,7 @@ What is FUSE? This video introduces what FUSE is and how it works. The creator a
 ## Week 4
 #### 1. [A printf format reference page (cheat sheet) (C, Java, Scala, etc.)](https://alvinalexander.com/programming/printf-format-cheat-sheet/)  
 How do i use the "printf" command in C? This article is a guide, a cheat sheet if you will, of how you can manipulate the printf command. the author gives a quick overview of available format specifiers, output alignment, special characters, and more!  
-#### 2. [`you will never ask about pointers again after watching this video`](https://www.youtube.com/watch?v=2ybLD6_2gKM)  
+#### 2. [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)  
 What are pointers and how does it work? This video explains clearly what they are and how they are used in C such as in memory allocation and in working with data structures.  
 
 ## Week 5
