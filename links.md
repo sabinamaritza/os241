@@ -40,6 +40,6 @@ If you don't like long videos, this one is a 6 minute video on the inner working
 ## Week 6
 #### 1. [Multitasking vs Multithreading vs Multiprocessing](https://www.youtube.com/watch?v=Tn0u-IIBmtc&ab_channel=GaryExplains)
 What is the difference between multitasking, multithreading, and multiprocessing? These terms are often used interchangeably, but they have distinct meanings and applications. Understanding these differences is important for programmers who want to write efficient software.  
-#### 2> [Operating System #18 CPU Scheduling: FCFS, SJF, SRTF, Round Robin](https://www.youtube.com/watch?v=exlaEOVRWQM&ab_channel=Xoviabcs)
+#### 2. [Operating System #18 CPU Scheduling: FCFS, SJF, SRTF, Round Robin](https://www.youtube.com/watch?v=exlaEOVRWQM&ab_channel=Xoviabcs)
 How does CPU scheduling algorithms work in operating systems? The video will teach you about various CPU scheduling algorithms and the factors that needs to be considered when designing a scheduling algorithm, starting from its definition to the factors considered when making certain decisions.  
 <br>
