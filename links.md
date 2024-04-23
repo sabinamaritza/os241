@@ -43,3 +43,10 @@ What is the difference between multitasking, multithreading, and multiprocessing
 #### 2. [Operating System #18 CPU Scheduling: FCFS, SJF, SRTF, Round Robin](https://www.youtube.com/watch?v=exlaEOVRWQM&ab_channel=Xoviabcs)
 How does CPU scheduling algorithms work in operating systems? The video will teach you about various CPU scheduling algorithms and the factors that needs to be considered when designing a scheduling algorithm, starting from its definition to the factors considered when making certain decisions.  
 <br>
+
+## Week 7
+#### 1. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&ab_channel=NesoAcademy)
+What is process synchronization how does it prevent data inconsistency? In concurrent programming, multiple processes can access and manipulate the same data at the same time, which can lead to data inconsistency. This video introduces the concept of cooperating processes, which can share data through memory or messages.  
+#### 2. [What is a semaphore? How do they work? (Example in C)](https://www.youtube.com/watch?v=ukM_zzrIeXs&ab_channel=JacobSorber)
+What are semaphores and how they are used for synchronization between multiple threads or processes? The concept of semaphores is explained in detail in this short video, along with an example code demonstrating how they can be used.  
+<br>
