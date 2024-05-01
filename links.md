@@ -50,3 +50,10 @@ What is process synchronization how does it prevent data inconsistency? In concu
 #### 2. [What is a semaphore? How do they work? (Example in C)](https://www.youtube.com/watch?v=ukM_zzrIeXs&ab_channel=JacobSorber)
 What are semaphores and how they are used for synchronization between multiple threads or processes? The concept of semaphores is explained in detail in this short video, along with an example code demonstrating how they can be used.  
 <br>
+
+## Week 8
+#### 1. [How to build Linux From Scratch 11.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)
+Don't know where to start building Linux From Scratch? This playlist will guide you step by step on how to build LFS 11.2 on Windows.  
+#### 2. [Process Scheduling](https://www.youtube.com/watch?v=2h3eWaPx8SA&ab_channel=NesoAcademy)
+How do operating systems manage multiple processes on a single CPU? This video will explain about process scheduling and how it does it, and the concepts behind it.  
+<br>
