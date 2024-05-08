@@ -57,3 +57,10 @@ Don't know where to start building Linux From Scratch? This playlist will guide 
 #### 2. [Process Scheduling](https://www.youtube.com/watch?v=2h3eWaPx8SA&ab_channel=NesoAcademy)
 How do operating systems manage multiple processes on a single CPU? This video will explain about process scheduling and how it does it, and the concepts behind it.  
 <br>
+
+## Week 9
+#### 1. [How to Symlink a File in Linux](https://www.geeksforgeeks.org/how-to-symlink-a-file-in-linux/)
+What is a symlink, and how do I use it? This article will teach you all about it!  
+#### 2. [Linux From Scratch - Version arm64-r12.0-319](https://www.linuxfromscratch.org/~xry111/lfs/view/arm64/)
+How do I build a Linux System? This book will guide you through it step by step.  
+<br>
